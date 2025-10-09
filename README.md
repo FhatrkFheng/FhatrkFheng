@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Pang</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🔭 I’m currently working on **Machine Learning with predictive anaylysis**
+- 🔭 I’m currently working on **Machine Learning with predictive anaylysis to deploy on the web**
 
 - 🌱 I’m currently learning **React, Flaks,**
 
