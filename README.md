@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Pang</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate frontend developer from The Philippines</h3>
 
 - 🔭 Currently working on **Machine Learning with predictive analysis**
 
