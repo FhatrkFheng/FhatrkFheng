@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patrick Pang</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🔭 I’m currently working on **Machine Learning with predictive anaylysis to deploy on the web**
+- 🔭 Currently working on **Machine Learning with predictive analysis**
 
 - 🌱 I’m currently learning **React, Flaks and Electron.js**
 
-- 🤝 I’m looking for help with **Machine Learning Development**
+- 🤝 I’m looking for help with **Machine Learning Development and Web Development**
 
 - 📫 How to reach me **pang30571@gmail.com**
 
