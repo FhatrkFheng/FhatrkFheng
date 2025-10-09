@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Machine Learning with predictive anaylysis to deploy on the web**
 
-- 🌱 I’m currently learning **React, Flaks,**
+- 🌱 I’m currently learning **React, Flaks and Electron.js**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Machine Learning Development**
 
 - 📫 How to reach me **pang30571@gmail.com**
 
