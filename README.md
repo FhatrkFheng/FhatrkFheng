@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pang30571@gmail.com**
 
-- 🌐 Portfolio / https://patrickpang.vercel.app/
+- 🌐 Portfolio / https://patrickpang.vercel.app/ still in progress but working
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
