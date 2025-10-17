@@ -11,6 +11,8 @@
 
 - 🌐 Portfolio / https://patrickpang.vercel.app/ still in progress but working
 
+- 🪶 Resume / https://drive.google.com/file/d/1mDCxvWhJ97aBGHHsq6b6G6y_Kki-FNTn/view?usp=drive_link
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/patrickjohncpang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="patrickjohncpang" height="30" width="40" /></a>
