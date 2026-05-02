@@ -14,10 +14,11 @@
 - 🪶 Resume / https://drive.google.com/file/d/1mDCxvWhJ97aBGHHsq6b6G6y_Kki-FNTn/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://kaggle.com/patrickjohncpang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="patrickjohncpang" height="30" width="40" /></a>
-<a href="https://fb.com/zacghs.mine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zacghs.mine" height="30" width="40" /></a>
-<a href="https://instagram.com/zacghs_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zacghs_42" height="30" width="40" /></a>
+  <a href="https://kaggle.com/patrickjohncpang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="patrickjohncpang" height="30" width="40" /></a>
+  <a href="https://fb.com/zacghs.mine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zacghs.mine" height="30" width="40" /></a>
+  <a href="https://instagram.com/zacghs_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zacghs_42" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
