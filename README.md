@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p style="display: flex; gap: 10px;">
   <a href="https://kaggle.com/patrickjohncpang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="patrickjohncpang" height="30" width="40" /></a>
   <a href="https://fb.com/zacghs.mine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zacghs.mine" height="30" width="40" /></a>
   <a href="https://instagram.com/zacghs_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zacghs_42" height="30" width="40" /></a>
@@ -58,5 +58,3 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-
-</div>
