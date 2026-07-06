@@ -11,7 +11,7 @@
 
 - 🌐 Portfolio / https://patrickpang.vercel.app/ still in progress but working
 
-- 🪶 [Resume](https://drive.google.com/file/d/1obhpcXXQ8B-4d27ALCBnkC-t1G4QqBlj/view)
+- 🪶 [Resume](https://drive.google.com/file/d/1xSyW6cNKZti2R0zEWUkbbV1i3fSH6F_w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
